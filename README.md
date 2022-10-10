@@ -1,4 +1,4 @@
-PHP debug server
+Simple API debug server
 ===============
 
 Super Simple API Request Debugger
@@ -8,7 +8,7 @@ Super Simple API Request Debugger
 ### Up Service
 
 ```shell
-php -S 0.0.0.0:8000 -t public/ index.php
+php -S 0.0.0.0:8000 -t public/ public/index.php
 ```
 
 ### Test Request
